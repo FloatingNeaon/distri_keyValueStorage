@@ -1,0 +1,13 @@
+客户端运行时
+PUT操作：
+put
+test1		//键
+shiroko		//值
+
+GET操作：
+get
+test1		//键
+
+DEL操作：
+del
+test1		//键
